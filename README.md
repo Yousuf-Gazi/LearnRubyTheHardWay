@@ -1,19 +1,14 @@
-# Ruby on Replit
+# Learn Ruby The Hard Way
 
-This is a template to get you started with Ruby on Replit. It's ready to go, so you can just hit Run and start coding!
+This repository contains exercises I've practiced while learning Ruby using the book "Learn Ruby the Hard Way" by Zed Shaw.
 
-## Running the repl
+## About the Repository
 
-Simply hit and run! You can edit the run command from the `.replit` file.
+The exercises within this repository are structured to complement the lessons in the book.
 
-## Installing packages
+## Resources
 
-To add packages to your repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/guides/getting_started.html).
+- [Book: "Learn Ruby The Hard Way" by Zed Shaw](https://learnrubythehardway.org/book/)
+- Additional resources and references are included within each exercise directory.
 
-**Warning: Avoid using `gem install` to add packages.**
-
-Because Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
-
-## Help
-
-If you need help, you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).# learning_ruby
+Feel free to explore. Suggestions and feedback are welcome!
