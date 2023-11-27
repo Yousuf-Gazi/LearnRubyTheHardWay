@@ -9,6 +9,5 @@ The exercises within this repository are structured to complement the lessons in
 ## Resources
 
 - [Book: "Learn Ruby The Hard Way" by Zed Shaw](https://learnrubythehardway.org/book/)
-- Additional resources and references are included within each exercise directory.
 
 Feel free to explore. Suggestions and feedback are welcome!
